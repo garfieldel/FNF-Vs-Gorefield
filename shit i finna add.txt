@@ -3,6 +3,7 @@ Shaders
 -Grain
 -VCR
 
+puta
 Window Size
 -640x360
 -640x480
